@@ -1,1 +1,0 @@
-select * from population_prosperity
