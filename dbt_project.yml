@@ -8,6 +8,7 @@ config-version: 2
 
 vars:
   selected_country: USA
+  selected_year: 2019
 
 # This setting configures which "profile" dbt uses for this project.
 profile: 'default'

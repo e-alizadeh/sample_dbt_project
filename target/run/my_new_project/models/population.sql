@@ -1,4 +1,4 @@
 
   create view "d15em1n30ihttu"."dbt_ealizadeh"."population__dbt_tmp" as (
-    select * from population_prosperity
+    select "code", "year", "continent", "total_population" from population_prosperity
   );

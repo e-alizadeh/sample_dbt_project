@@ -1,1 +1,1 @@
-select * from covid_latest
+select "iso_code", "total_cases", "new_cases", "total_cases_per_million"  from covid_latest
